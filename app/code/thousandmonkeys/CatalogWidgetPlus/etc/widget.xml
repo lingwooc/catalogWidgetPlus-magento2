@@ -21,7 +21,7 @@
             </parameter>
             <parameter name="best_sellers" xsi:type="select" visible="true"
                        source_model="Magento\Config\Model\Config\Source\Yesno">
-                <label translate="true">Show Best Sellers</label>
+                <label translate="true">Sort By Best Sellers</label>
             </parameter>
             <parameter name="products_per_page" xsi:type="text" required="true" visible="true">
                 <label translate="true">Number of Products per Page</label>
